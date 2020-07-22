@@ -293,11 +293,11 @@ header {
 }
 
 .my-services {
-    background-color: var(--clr-dark);
+    background-color: var(--clr-light);
     background-image:url(../img/services.jpg);
     background-size: cover;
     background-blend-mode: overlay;
-    color: var(--clr-light);
+    color: var(--clr-dark);
     text-align: center;
 }
 
@@ -313,8 +313,8 @@ header {
     width: 2em;
     height: 1px;
     margin: .5em auto 1em;
-    background: var(--clr-light);
-    opacity: 0.75;
+    background: var(--clr-dark);
+    opacity: 1;
 }
 
 .section__subtitle--work{
