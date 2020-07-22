@@ -352,6 +352,7 @@ header {
 
 .about-me__img{
     box-shadow: var(--bs);
+    border: 5px solid #4169e1;
 }
 
 @media (min-width: 600px){
