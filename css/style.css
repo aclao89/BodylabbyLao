@@ -123,7 +123,7 @@ h3 { font-size: var(--fs-h3)}
 
 
 .section__title--intro strong {
-    display:block;
+    display: block;
 }
 
 .section__subtitle {
@@ -136,7 +136,7 @@ h3 { font-size: var(--fs-h3)}
 .section__subtitle--about {
 
     background: var(--clr-accent);
-    padding: .25em 1em;
+    padding: .1em 2em;
     font-family: var(--ff-secondary);
     margin-bottom: 1em;
 }
@@ -284,10 +284,10 @@ header {
         align-self: start;
         grid-column: -1 / 1;
         grid-row: 2;
-        text-align: right;
+        text-align: center;
         position: relative;
-        left: -1.5em;
-        width: calc(100% + 1.5em);
+        left: 1.5em;
+        width: calc(95%);
 
     }
 }
